@@ -39,7 +39,7 @@ val builder = Notification.Builder(context, CHANNEL_ID)
 
 Trigger updates through `SnackbarNotificationManager` or your own notification service to reflect real-time progress.
 
-## Video Demo 🎥
+## Video Demo
 
 Check out the live demo to see **Live Updates Notifications** in action:
 
