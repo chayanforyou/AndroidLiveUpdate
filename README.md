@@ -20,7 +20,7 @@ This project demonstrates how to build Live Updates Notifications that make your
 ## Getting Started
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/live-updates-android16.git
+https://github.com/chayanforyou/AndroidLiveUpdate.git
 ```
 2. Open in Android Studio and run on a device with Android 16 or higher.
 3. Explore the sample notifications with `LiveUpdateSample` composable.
